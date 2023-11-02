@@ -1,9 +1,14 @@
 ##### Black Mage
-*Version 2*
+*Version 3*
 The **Black Mage** is a low Health DPS unit with access to various ways of dealing with enemies and their cards through the use of Magic.
  - They have an MP resource that goes from 0-10 and have Spells that will require some amount of MP to be able to play them. MP is only spent to initially play the card, not to maintain it.
- - They have 3 Basic Spells with variable MP costs that can be played whenever you're able to play a Spell. Once played, they are set outside of play again instead of put into your Trash. These cards are **Fire**, **Blizzard**, and **Thunder**.
+ - They have 3 Basic Spells with variable MP costs that can be played whenever you're able to play a Spell. These Basic Spells are **Fire**, **Blizzard**, and **Thunder**.
  - The Black Mage has a few Items that are useful for both themself and other targets. For example, Megalixir can be used to fully fill resources that have a capped minimum and maximum, similar to the Black Mage's MP, on top of healing HP.
+
+### Version 3
+ - Fixed a typo with *Swiftcast*
+ - Updated how the Basic Spells *Fire*, *Blizzard*, and *Thunder* function; They're no longer considered cards.
+ - Art updated.
 
 ### Version 2
  - *Ultima* and *Ultima Materia* heavily reworked; *Ultima Materia* now searches for *Ultima* from your Deck or Trash, and *Ultima* no longer needs to be the only spell you cast for two turns.
